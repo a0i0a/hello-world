@@ -1,2 +1,5 @@
 # hello-world
-My trial of github
+
+F-ed up network!!
+
+Sorry guys... Maybe later
